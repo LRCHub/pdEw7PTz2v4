@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "青春ギャル的ガールズ!! / yamcha feat.双葉湊音＆春日部つむぎ（feat. 春日部つむぎ、双葉湊音）",
+  "base_artist": "yamcha",
+  "createdAt": "2026-03-31T11:32:54.451449Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青春ギャル的ガールズ!! (feat. 春日部つむぎ & 双葉湊音)",
+      "artist": "yamcha",
+      "has_synced": false,
+      "path": "select/pl_01_青春ギャル的ガールズ!!_(feat._春日部つむぎ_&_双葉湊音)_yamcha.txt"
+    }
+  ]
+}
